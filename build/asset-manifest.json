@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe858a19.css",
+    "main.js": "/static/js/main.8694a07c.js",
+    "static/media/dessert4.png": "/static/media/dessert4.e02ebd43784013ab5ec2.png",
+    "static/media/dessert2.png": "/static/media/dessert2.453a828a49f0d16ae426.png",
+    "static/media/dessert3.png": "/static/media/dessert3.6c73c0177ce2f21a9601.png",
+    "static/media/breakfast2.png": "/static/media/breakfast2.bbefb3fe527dd760faab.png",
+    "static/media/breakfast1.png": "/static/media/breakfast1.75e3689fbee74cab89de.png",
+    "static/media/soda2.png": "/static/media/soda2.c7a2e437999bcd9c9630.png",
+    "static/media/burger4.png": "/static/media/burger4.ec4607601566bb1e9324.png",
+    "static/media/burger2.png": "/static/media/burger2.423f4b9a80aeca815a09.png",
+    "static/media/burger9.png": "/static/media/burger9.c2f6fe084ec1c46c0597.png",
+    "static/media/burger7.png": "/static/media/burger7.8aeb760a6af359cc1ca7.png",
+    "static/media/burger5.png": "/static/media/burger5.3f5f234ca54f6a38d9d3.png",
+    "static/media/burger8.png": "/static/media/burger8.1214fdd7b1299df31920.png",
+    "static/media/salad3.png": "/static/media/salad3.63327a103825886edf7c.png",
+    "static/media/dessert1.png": "/static/media/dessert1.e4f977dfec459bab8f4b.png",
+    "static/media/soda3.png": "/static/media/soda3.a62817d963f902c53edd.png",
+    "static/media/burger1.png": "/static/media/burger1.d1de992d0b4ca50b7727.png",
+    "static/media/salad4.png": "/static/media/salad4.2242a64952b7bb6ea613.png",
+    "static/media/soda1.png": "/static/media/soda1.ee4fa40351c48f4f8f0e.png",
+    "static/media/salad1.png": "/static/media/salad1.f6fcf850e4123812a850.png",
+    "static/media/salad2.png": "/static/media/salad2.2a603b3f6e1bd2ac1b95.png",
+    "static/media/empty_cart.svg": "/static/media/empty_cart.ba9310cfd44f85e819f95b76b712d1a4.svg",
+    "index.html": "/index.html",
+    "static/media/arrowleft.svg": "/static/media/arrowleft.f931ea585b2ce8acd96103489f72c889.svg",
+    "static/media/arrowright.svg": "/static/media/arrowright.6b9b4c10b72fca23f5d09c9e6dce76c0.svg",
+    "main.fe858a19.css.map": "/static/css/main.fe858a19.css.map",
+    "main.8694a07c.js.map": "/static/js/main.8694a07c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe858a19.css",
+    "static/js/main.8694a07c.js"
+  ]
+}
